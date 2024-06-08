@@ -1,0 +1,7 @@
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\bin\Debug\Builder-ComputerSystemBuilder.exe.config
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\bin\Debug\Builder-ComputerSystemBuilder.exe
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\bin\Debug\Builder-ComputerSystemBuilder.pdb
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\obj\Debug\Builder-ComputerSystemBuilder.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\obj\Debug\Builder-ComputerSystemBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\obj\Debug\Builder-ComputerSystemBuilder.exe
+C:\Users\ilkay\source\repos\Builder-ComputerSystemBuilder\Builder-ComputerSystemBuilder\obj\Debug\Builder-ComputerSystemBuilder.pdb
